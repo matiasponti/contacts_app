@@ -1,0 +1,4 @@
+#Fri Dec 20 15:07:43 ART 2019
+base.0=/Users/matiashuala/Desktop/contacts_app/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -70,7 +70,7 @@ class _LocalNotificationspageState extends State<LocalNotificationsPage> {
             Container(
               margin: const EdgeInsets.only(top: 90.0),
               child: RaisedButton(
-                child: Text('Time'),
+                child: Text('Pick Time'),
                 onPressed: () {
                   showTimePicker(
                       context: context,
